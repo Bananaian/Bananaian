@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" role="img" aria-label="CRM PHONEBOOK">
+<rect x=".5" y=".5" width="599" height="189" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="26" y="28" width="3" height="39" rx="1" fill="#a5d6ff"/>
+<text x="42" y="47" fill="#8b949e" font-family="monospace" font-size="13">PROJECT / 06</text>
+<text x="553" y="46" fill="#a5d6ff" font-family="monospace" font-size="21">↗</text>
+<text x="26" y="93" fill="#a5d6ff" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">CRM PHONEBOOK</text>
+<text x="26" y="125" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="18">Your contacts, connected.</text>
+<text x="26" y="160" fill="#8b949e" font-family="monospace" font-size="13">Telegram / Workers / D1</text>
+</svg>
